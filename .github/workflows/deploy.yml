@@ -30,6 +30,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "yoshiyahino-fresh-2-exa-62"
-          entrypoint: "main.ts"
+          project: "yoshiyahino-fresh-2-exa-24"
+          entrypoint: "main.tsx"
           root: "."
